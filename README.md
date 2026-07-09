@@ -15,8 +15,8 @@ Before running the notebook, ensure you have the following installed:
 
 Clone this repository:
    ```bash
-   git clone https://github.com/drkevinbarends/top_quark_pair_search.git
-   cd top_quark_pair_search
+   git clone https://github.com/drkevinbarends/wz_search.git
+   cd wz_search
    ```
 
 ---
